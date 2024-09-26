@@ -13,3 +13,6 @@
 1. **Slider:** *Digunakan tiga slider untuk mengatur nilai R, G, dan B (warna merah, hijau, biru) yang digunakan untuk mengisi warna lingkaran*.
 2. **ellipse():** *Fungsi ini digunakan untuk menggambar lingkaran di tengah canvas*.
 3. **fill():** *Ini digunakan untuk menetapkan warna lingkaran berdasarkan nilai dari slider*.
+
+# SCREENSHOT
+![Screenshot](https://github.com/user-attachments/assets/ec3b79e2-cbf3-46aa-8488-9701ad89f656)
