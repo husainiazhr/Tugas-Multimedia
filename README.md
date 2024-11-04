@@ -15,4 +15,5 @@
 3. **fill():** *Ini digunakan untuk menetapkan warna lingkaran berdasarkan nilai dari slider*.
 
 # SCREENSHOT
-![Screenshot](https://github.com/user-attachments/assets/ec3b79e2-cbf3-46aa-8488-9701ad89f656)
+![image](https://github.com/user-attachments/assets/ba63e9ae-5568-431c-9b1d-3f5a91e72a0f)
+
